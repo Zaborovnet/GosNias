@@ -2,7 +2,6 @@
 ## Система неблокирующей отправки REST сообщений
 
 ![C++17](https://img.shields.io/badge/C++-17-blue.svg)
-![License](https://img.shields.io/badge/License-Proprietary-lightgray.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux-green.svg)
 
 ## 📋 Оглавление
